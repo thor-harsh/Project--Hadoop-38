@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do an amazing stuff.Here we will work on the walmart_stock.csv and complete the challenges as provided by Jose Portilla .** <br></br>
+**In this project We will use Spark with Python to do an amazing stuff.Here we will work on the Spark DataFrame which will read this walmart_stock.csv as our dataset and complete the challenges as provided by Jose Portilla .** <br></br>
 
 **Before jumping to the code lets understand Spark First**...<br></br>
 
@@ -13,6 +13,14 @@ Unify the processing of your data in batches and real-time streaming, using your
 Execute fast, distributed ANSI SQL queries for dashboarding and ad-hoc reporting. Runs faster than most data warehouses.<br></br>
 Perform Exploratory Data Analysis (EDA) on petabyte-scale data without having to resort to downsampling.
 Train machine learning algorithms on a laptop and use the same code to scale to fault-tolerant clusters of thousands of machines.<br></br>
+
+**What is Spark DataFrames**?
+Spark 2.0 shifted towards DataFrame syntax
+are now the standard way of using Spark's ML Capabilties
+Spark Docs are still new
+DataFrame is very familiar to Pandas DataFrames
+Columns = features
+Rows = records
 
 
 
