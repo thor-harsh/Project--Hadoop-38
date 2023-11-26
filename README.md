@@ -4,12 +4,15 @@
   
 **In this project We will use Spark with Python to do an amazing stuff.Here we will work on the walmart_stock.csv and complete the challenges as provided by Jose Portilla .** <br></br>
 
-**Before jumping to the code lets understand MapReduce First**...<br></br>
+**Before jumping to the code lets understand Spark First**...<br></br>
 
-**What is MapReduce?** <br></br>
+**What is Apache Spark?** <br></br>
 
-MapReduce is a programming paradigm that enables massive scalability across hundreds or thousands of servers in a Hadoop cluster. As the processing component, MapReduce is the heart of Apache Hadoop. The term "MapReduce" refers to two separate and distinct tasks that Hadoop programs perform.
-A MapReduce program is composed of a map procedure, which performs filtering and sorting, and a reduce method, which performs a summary operation.
+Apache Spark™ is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.<br>
+Unify the processing of your data in batches and real-time streaming, using your preferred language: Python, SQL, Scala, Java or R.<br>
+Execute fast, distributed ANSI SQL queries for dashboarding and ad-hoc reporting. Runs faster than most data warehouses.<br>
+Perform Exploratory Data Analysis (EDA) on petabyte-scale data without having to resort to downsampling.<br>
+Train machine learning algorithms on a laptop and use the same code to scale to fault-tolerant clusters of thousands of machines.<br>
 
 
 
