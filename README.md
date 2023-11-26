@@ -15,14 +15,12 @@ Perform Exploratory Data Analysis (EDA) on petabyte-scale data without having to
 Train machine learning algorithms on a laptop and use the same code to scale to fault-tolerant clusters of thousands of machines.<br></br>
 
 **What is Spark DataFrames**?<br></br>
-Spark 2.0 shifted towards DataFrame syntax
-are now the standard way of using Spark's ML Capabilties
-Spark Docs are still new
-DataFrame is very familiar to Pandas DataFrames
-Columns = features
-Rows = records
-
-
+Spark 2.0 shifted towards DataFrame syntax<br>
+are now the standard way of using Spark's ML Capabilties<br>
+Spark Docs are still new<br>
+DataFrame is very familiar to Pandas DataFrames<br>
+Columns = features<br>
+Rows = records<br>
 
 **Important Note: Go through the walmart_stock.csv file before jumping to the code.**
 
