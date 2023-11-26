@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project We will use MapReduce with Python to do an amazing stuff.Here we will find the Most Popular Superhero.** <br></br>
+**In this project We will use Spark with Python to do an amazing stuff.Here we will work on .** <br></br>
 We will find the total no. of characters associated with each superhero which is based on total no. of characters that comes together with each superhero in a comic book.<br></br>
 
 **Before jumping to the code lets understand MapReduce First**...<br></br>
