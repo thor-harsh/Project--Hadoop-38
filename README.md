@@ -16,7 +16,7 @@ Train machine learning algorithms on a laptop and use the same code to scale to 
 
 
 
-**Important Note: Go through the Marvel+Graph and Marvel+Names files before jumping to the code.**
+**Important Note: Go through the walmart_stock.csv file before jumping to the code.**
 
 
 </table>
